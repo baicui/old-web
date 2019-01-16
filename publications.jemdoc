@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Journal Papers
+
+. *B. Cui* and Z. Wang, ``Counterexample to Equivalent Nodal Analysis for Voltage Stability Assessment,'' submitted to /IEEE Power Engineering Letters/.
+. Y. Li, Y. Zhen, D. Zhao, H. Lei, *B. Cui*, and S. Li, ``Incorporating Energy Storage and User Experience in Isolated Microgrid Dispatch Using a Multi-objective Model,'' submitted to /IET Generation, Transmission, \& Distribution/.
+. C. Wang, *B. Cui*, Z. Wang, and C. Gu, ``SDP-based Optimal Power Flow with Steady-State Voltage Stability Constraints,'' /IEEE Transactions on Smart Grid/, in press.
+. C. Wang, *B. Cui*, and Z. Wang, ``Analysis of Solvability Boundary for Droop-Controlled Microgrids,'' /IEEE Transactions on Power Systems/, vol. 33, no. 5, pp. 5799--5802, September 2018.
+. *B. Cui* and X. A. Sun, ``A New Voltage-Stability Constrained Optimal Power Flow Model: Sufficient Condition, SOCP Representation, and Relaxation,'' /IEEE Transactions on Power Systems/, vol. 33, no. 5, pp. 5092--5102, September 2018.
+. *B. Cui* and Z. Wang, ``Voltage Stability Assessment Based on Improved Coupled Single-Port Method,'' /IET Generation, Transmission & Distribution/, vol. 11, no. 10, pp. 2703--2711, July 2017.
+. Z. Wang, *B. Cui*, and J. Wang, ``A Necessary Condition for Power Flow Insolvabily in Power Distribution Systems with Distributed Generators,'' /IEEE Transactions on Power Systems/, vol. 32, no. 2, pp. 1440--1450, March 2017.
+. D. Ding, D. Zhao, X. Zhang, X. Lan, C. Li, and *B. Cui*, "Investigation of Vibration Impacts on HVAC Transformer from HVDC System Under Monopole Operation", /IEEE Transactions on Dielectrics and Electrical Insulation/, vol. 23, no. 3, pp. 1386--1392, June 2016.
+
+== Conference Papers
+
+. S. Meliopoulos, G. Cokkinides, R. Fan, L. Sun, and *B. Cui*, ``Command Authentication via Faster Than Real Time Simulation,'' in /IEEE PES General Meeting/, Boston, MA, Jul. 2016.
+. *B. Cui*, M. Begovic, R. Nuqui, D. Sobajic, and Y. Song, ``On Voltage Stability Monitoring with Voltage Instability Predicotors,'' in /Bulk Power System Dynamics and Control-IX Optimization, Security and Control of the Emerging Power Grid (IREP), 2013 IREP Symposium/, Rethymno, Greece, 2013.

@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}
+= Bai Cui
+
+~~~
+{}{img_left}{pictures/bcui.jpg}{profile picture}{200px}{200px}{}
+Bai Cui, Ph.D.
+
+Postdoctoral Appointee \n
+Energy Systems Division \n
+Argonne National Laboratory
+
+Email: [bcui@anl.gov] \n
+Office: 362-B300
+
+Links: [https://scholar.google.com/citations?user=6Pi68pMAAAAJ&hl=en Google Scholar], [https://www.researchgate.net/profile/Bai_Cui2 ResearchGate]
+~~~
+
+== Research Interests
+
+My primary research interests are in the area of power system security and stability analysis and power system optimization. Topics of recent interests include:
+. Power flow solvability
+. Real-time monitoring of voltage stability
+. Convex relaxation of optimal power flow and its applications
